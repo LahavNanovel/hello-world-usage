@@ -1,3 +1,6 @@
 [submodule "hello-world"]
 	path = hello-world
 	url = https://github.com/LahavNanovel/hello-world.git
+[submodule "helloworld"]
+	path = helloworld
+	url = https://github.com/LahavNanovel/hello-world.git
